@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test1" group-title="Test Clips",IPolyTv Test Clip 1
+https://paftalkapp.github.io/ipolytv-legal/review/clip1.mp4
+#EXTINF:-1 tvg-id="test2" group-title="Test Clips",IPolyTv Test Clip 2
+https://paftalkapp.github.io/ipolytv-legal/review/clip2.mp4
+#EXTINF:-1 tvg-id="test3" group-title="Test Clips",IPolyTv Test Clip 3
+https://paftalkapp.github.io/ipolytv-legal/review/clip3.mp4
